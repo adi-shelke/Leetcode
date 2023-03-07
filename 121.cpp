@@ -20,7 +20,7 @@ class Solution{
 };
 int main(){
     Solution s;
-    vector <int> vect {7,6,4,3,1};
+    vector <int> vect {2,6,4,3,1};
     int sol=s.solution(vect);
     cout<<sol;
 }
